@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a comment 1`] = `
+<div
+  className="issue-detail__comment"
+>
+  <UserWithAvatar
+    orientation="horizontal"
+    user={
+      Object {
+        "avatar_url": "http://foo",
+        "login": "somebody",
+      }
+    }
+  />
+  <div
+    className="issue-detail__comment__body"
+  >
+    <ReactMarkdown
+      astPlugins={Array []}
+      className="markdown"
+      escapeHtml={true}
+      plugins={Array []}
+      rawSourcePos={false}
+      renderers={Object {}}
+      skipHtml={false}
+      source="a comment"
+      sourcePos={false}
+      transformLinkUri={[Function]}
+    />
+  </div>
+</div>
+`;
+
+exports[`test renders a comment 1`] = `
+<div
+  className="issue-detail__comment">
+  <UserWithAvatar
+    orientation="horizontal"
+    user={
+      Object {
+        "avatar_url": "http://foo",
+        "login": "somebody",
+      }
+    } />
+  <div
+    className="issue-detail__comment__body">
+    <ReactMarkdown
+      className="markdown"
+      containerTagName="div"
+      source="a comment" />
+  </div>
+</div>
+`;

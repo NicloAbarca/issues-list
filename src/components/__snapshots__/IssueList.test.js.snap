@@ -1,0 +1,1372 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<ul
+  className="issues"
+>
+  <li
+    className="issues__issue-wrapper"
+    key="394419040"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "007bff",
+            "default": false,
+            "id": 143597,
+            "name": "docs",
+            "node_id": "MDU6TGFiZWwxNDM1OTc=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/docs",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27931}
+      summary="something with no line breaks"
+      title="toasts: mention that positioning is manual."
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/349621?v=4",
+          "events_url": "https://api.github.com/users/XhmikosR/events{/privacy}",
+          "followers_url": "https://api.github.com/users/XhmikosR/followers",
+          "following_url": "https://api.github.com/users/XhmikosR/following{/other_user}",
+          "gists_url": "https://api.github.com/users/XhmikosR/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/XhmikosR",
+          "id": 349621,
+          "login": "XhmikosR",
+          "node_id": "MDQ6VXNlcjM0OTYyMQ==",
+          "organizations_url": "https://api.github.com/users/XhmikosR/orgs",
+          "received_events_url": "https://api.github.com/users/XhmikosR/received_events",
+          "repos_url": "https://api.github.com/users/XhmikosR/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/XhmikosR/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/XhmikosR/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/XhmikosR",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="394405421"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "007bff",
+            "default": false,
+            "id": 143597,
+            "name": "docs",
+            "node_id": "MDU6TGFiZWwxNDM1OTc=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/docs",
+          },
+        ]
+      }
+      number={27930}
+      summary="something with no line breaks"
+      title="Link to the latest version is not available in dropdown"
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/25089646?v=4",
+          "events_url": "https://api.github.com/users/maxkorz/events{/privacy}",
+          "followers_url": "https://api.github.com/users/maxkorz/followers",
+          "following_url": "https://api.github.com/users/maxkorz/following{/other_user}",
+          "gists_url": "https://api.github.com/users/maxkorz/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/maxkorz",
+          "id": 25089646,
+          "login": "maxkorz",
+          "node_id": "MDQ6VXNlcjI1MDg5NjQ2",
+          "organizations_url": "https://api.github.com/users/maxkorz/orgs",
+          "received_events_url": "https://api.github.com/users/maxkorz/received_events",
+          "repos_url": "https://api.github.com/users/maxkorz/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/maxkorz/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/maxkorz/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/maxkorz",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="394348507"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 210556,
+            "name": "css",
+            "node_id": "MDU6TGFiZWwyMTA1NTY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/css",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27929}
+      summary="something with no line breaks"
+      title="Fix custom select font sizes"
+      user={
+        Object {
+          "avatar_url": "https://avatars3.githubusercontent.com/u/11559216?v=4",
+          "events_url": "https://api.github.com/users/MartijnCuppens/events{/privacy}",
+          "followers_url": "https://api.github.com/users/MartijnCuppens/followers",
+          "following_url": "https://api.github.com/users/MartijnCuppens/following{/other_user}",
+          "gists_url": "https://api.github.com/users/MartijnCuppens/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/MartijnCuppens",
+          "id": 11559216,
+          "login": "MartijnCuppens",
+          "node_id": "MDQ6VXNlcjExNTU5MjE2",
+          "organizations_url": "https://api.github.com/users/MartijnCuppens/orgs",
+          "received_events_url": "https://api.github.com/users/MartijnCuppens/received_events",
+          "repos_url": "https://api.github.com/users/MartijnCuppens/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/MartijnCuppens/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/MartijnCuppens/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/MartijnCuppens",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="394345674"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "007bff",
+            "default": false,
+            "id": 143597,
+            "name": "docs",
+            "node_id": "MDU6TGFiZWwxNDM1OTc=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/docs",
+          },
+          Object {
+            "color": "bfe5bf",
+            "default": true,
+            "id": 94611078,
+            "name": "help wanted",
+            "node_id": "MDU6TGFiZWw5NDYxMTA3OA==",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/help%20wanted",
+          },
+        ]
+      }
+      number={27928}
+      summary="something with no line breaks"
+      title="gh-pages: find a way to include sub-sitemaps"
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/349621?v=4",
+          "events_url": "https://api.github.com/users/XhmikosR/events{/privacy}",
+          "followers_url": "https://api.github.com/users/XhmikosR/followers",
+          "following_url": "https://api.github.com/users/XhmikosR/following{/other_user}",
+          "gists_url": "https://api.github.com/users/XhmikosR/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/XhmikosR",
+          "id": 349621,
+          "login": "XhmikosR",
+          "node_id": "MDQ6VXNlcjM0OTYyMQ==",
+          "organizations_url": "https://api.github.com/users/XhmikosR/orgs",
+          "received_events_url": "https://api.github.com/users/XhmikosR/received_events",
+          "repos_url": "https://api.github.com/users/XhmikosR/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/XhmikosR/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/XhmikosR/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/XhmikosR",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="394273015"
+  >
+    <Issue
+      labels={Array []}
+      number={27927}
+      summary="something with no line breaks"
+      title="4.2 breaking change: custom $grid-breakpoints that are smaller than default ones give errors"
+      user={
+        Object {
+          "avatar_url": "https://avatars3.githubusercontent.com/u/431395?v=4",
+          "events_url": "https://api.github.com/users/phazei/events{/privacy}",
+          "followers_url": "https://api.github.com/users/phazei/followers",
+          "following_url": "https://api.github.com/users/phazei/following{/other_user}",
+          "gists_url": "https://api.github.com/users/phazei/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/phazei",
+          "id": 431395,
+          "login": "phazei",
+          "node_id": "MDQ6VXNlcjQzMTM5NQ==",
+          "organizations_url": "https://api.github.com/users/phazei/orgs",
+          "received_events_url": "https://api.github.com/users/phazei/received_events",
+          "repos_url": "https://api.github.com/users/phazei/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/phazei/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/phazei/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/phazei",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="394201415"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 210556,
+            "name": "css",
+            "node_id": "MDU6TGFiZWwyMTA1NTY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/css",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27925}
+      summary="something with no line breaks"
+      title="Form feedback SVG icons use wrong stroke color"
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/35369?v=4",
+          "events_url": "https://api.github.com/users/coneybeare/events{/privacy}",
+          "followers_url": "https://api.github.com/users/coneybeare/followers",
+          "following_url": "https://api.github.com/users/coneybeare/following{/other_user}",
+          "gists_url": "https://api.github.com/users/coneybeare/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/coneybeare",
+          "id": 35369,
+          "login": "coneybeare",
+          "node_id": "MDQ6VXNlcjM1MzY5",
+          "organizations_url": "https://api.github.com/users/coneybeare/orgs",
+          "received_events_url": "https://api.github.com/users/coneybeare/received_events",
+          "repos_url": "https://api.github.com/users/coneybeare/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/coneybeare/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/coneybeare/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/coneybeare",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393947324"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "005299",
+            "default": false,
+            "id": 52382818,
+            "name": "examples",
+            "node_id": "MDU6TGFiZWw1MjM4MjgxOA==",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/examples",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27920}
+      summary="something with no line breaks"
+      title="blog internet explorer"
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/9058326?v=4",
+          "events_url": "https://api.github.com/users/Theolodewijk/events{/privacy}",
+          "followers_url": "https://api.github.com/users/Theolodewijk/followers",
+          "following_url": "https://api.github.com/users/Theolodewijk/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Theolodewijk/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/Theolodewijk",
+          "id": 9058326,
+          "login": "Theolodewijk",
+          "node_id": "MDQ6VXNlcjkwNTgzMjY=",
+          "organizations_url": "https://api.github.com/users/Theolodewijk/orgs",
+          "received_events_url": "https://api.github.com/users/Theolodewijk/received_events",
+          "repos_url": "https://api.github.com/users/Theolodewijk/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/Theolodewijk/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Theolodewijk/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/Theolodewijk",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393921414"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "007bff",
+            "default": false,
+            "id": 143597,
+            "name": "docs",
+            "node_id": "MDU6TGFiZWwxNDM1OTc=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/docs",
+          },
+          Object {
+            "color": "666666",
+            "default": false,
+            "id": 467471091,
+            "name": "has-pr",
+            "node_id": "MDU6TGFiZWw0Njc0NzEwOTE=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/has-pr",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27919}
+      summary="something with no line breaks"
+      title="Toast problem"
+      user={
+        Object {
+          "avatar_url": "https://avatars3.githubusercontent.com/u/8495380?v=4",
+          "events_url": "https://api.github.com/users/lcsqlpete/events{/privacy}",
+          "followers_url": "https://api.github.com/users/lcsqlpete/followers",
+          "following_url": "https://api.github.com/users/lcsqlpete/following{/other_user}",
+          "gists_url": "https://api.github.com/users/lcsqlpete/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/lcsqlpete",
+          "id": 8495380,
+          "login": "lcsqlpete",
+          "node_id": "MDQ6VXNlcjg0OTUzODA=",
+          "organizations_url": "https://api.github.com/users/lcsqlpete/orgs",
+          "received_events_url": "https://api.github.com/users/lcsqlpete/received_events",
+          "repos_url": "https://api.github.com/users/lcsqlpete/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/lcsqlpete/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/lcsqlpete/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/lcsqlpete",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393768832"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 210556,
+            "name": "css",
+            "node_id": "MDU6TGFiZWwyMTA1NTY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/css",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27917}
+      summary="something with no line breaks"
+      title="Configurable display utility classes"
+      user={
+        Object {
+          "avatar_url": "https://avatars3.githubusercontent.com/u/11559216?v=4",
+          "events_url": "https://api.github.com/users/MartijnCuppens/events{/privacy}",
+          "followers_url": "https://api.github.com/users/MartijnCuppens/followers",
+          "following_url": "https://api.github.com/users/MartijnCuppens/following{/other_user}",
+          "gists_url": "https://api.github.com/users/MartijnCuppens/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/MartijnCuppens",
+          "id": 11559216,
+          "login": "MartijnCuppens",
+          "node_id": "MDQ6VXNlcjExNTU5MjE2",
+          "organizations_url": "https://api.github.com/users/MartijnCuppens/orgs",
+          "received_events_url": "https://api.github.com/users/MartijnCuppens/received_events",
+          "repos_url": "https://api.github.com/users/MartijnCuppens/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/MartijnCuppens/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/MartijnCuppens/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/MartijnCuppens",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393762774"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "444444",
+            "default": false,
+            "id": 26387941,
+            "name": "meta",
+            "node_id": "MDU6TGFiZWwyNjM4Nzk0MQ==",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/meta",
+          },
+          Object {
+            "color": "d9534f",
+            "default": false,
+            "id": 250176946,
+            "name": "v3",
+            "node_id": "MDU6TGFiZWwyNTAxNzY5NDY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v3",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27915}
+      summary="something with no line breaks"
+      title="Github considers bootstrap 3.4.0 as insecure"
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/1364479?v=4",
+          "events_url": "https://api.github.com/users/GeyseR/events{/privacy}",
+          "followers_url": "https://api.github.com/users/GeyseR/followers",
+          "following_url": "https://api.github.com/users/GeyseR/following{/other_user}",
+          "gists_url": "https://api.github.com/users/GeyseR/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/GeyseR",
+          "id": 1364479,
+          "login": "GeyseR",
+          "node_id": "MDQ6VXNlcjEzNjQ0Nzk=",
+          "organizations_url": "https://api.github.com/users/GeyseR/orgs",
+          "received_events_url": "https://api.github.com/users/GeyseR/received_events",
+          "repos_url": "https://api.github.com/users/GeyseR/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/GeyseR/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/GeyseR/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/GeyseR",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393747493"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "007bff",
+            "default": false,
+            "id": 143597,
+            "name": "docs",
+            "node_id": "MDU6TGFiZWwxNDM1OTc=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/docs",
+          },
+        ]
+      }
+      number={27913}
+      summary="something with no line breaks"
+      title="Remove service worker from v4.0 and v4.1."
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/349621?v=4",
+          "events_url": "https://api.github.com/users/XhmikosR/events{/privacy}",
+          "followers_url": "https://api.github.com/users/XhmikosR/followers",
+          "following_url": "https://api.github.com/users/XhmikosR/following{/other_user}",
+          "gists_url": "https://api.github.com/users/XhmikosR/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/XhmikosR",
+          "id": 349621,
+          "login": "XhmikosR",
+          "node_id": "MDQ6VXNlcjM0OTYyMQ==",
+          "organizations_url": "https://api.github.com/users/XhmikosR/orgs",
+          "received_events_url": "https://api.github.com/users/XhmikosR/received_events",
+          "repos_url": "https://api.github.com/users/XhmikosR/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/XhmikosR/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/XhmikosR/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/XhmikosR",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393729316"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "eeeeee",
+            "default": false,
+            "id": 69688998,
+            "name": "build",
+            "node_id": "MDU6TGFiZWw2OTY4ODk5OA==",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/build",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27911}
+      summary="something with no line breaks"
+      title="Update devDependencies and gems."
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/349621?v=4",
+          "events_url": "https://api.github.com/users/XhmikosR/events{/privacy}",
+          "followers_url": "https://api.github.com/users/XhmikosR/followers",
+          "following_url": "https://api.github.com/users/XhmikosR/following{/other_user}",
+          "gists_url": "https://api.github.com/users/XhmikosR/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/XhmikosR",
+          "id": 349621,
+          "login": "XhmikosR",
+          "node_id": "MDQ6VXNlcjM0OTYyMQ==",
+          "organizations_url": "https://api.github.com/users/XhmikosR/orgs",
+          "received_events_url": "https://api.github.com/users/XhmikosR/received_events",
+          "repos_url": "https://api.github.com/users/XhmikosR/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/XhmikosR/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/XhmikosR/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/XhmikosR",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393704926"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "007bff",
+            "default": false,
+            "id": 143597,
+            "name": "docs",
+            "node_id": "MDU6TGFiZWwxNDM1OTc=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/docs",
+          },
+        ]
+      }
+      number={27907}
+      summary="something with no line breaks"
+      title="Fix broken URLs."
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/349621?v=4",
+          "events_url": "https://api.github.com/users/XhmikosR/events{/privacy}",
+          "followers_url": "https://api.github.com/users/XhmikosR/followers",
+          "following_url": "https://api.github.com/users/XhmikosR/following{/other_user}",
+          "gists_url": "https://api.github.com/users/XhmikosR/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/XhmikosR",
+          "id": 349621,
+          "login": "XhmikosR",
+          "node_id": "MDQ6VXNlcjM0OTYyMQ==",
+          "organizations_url": "https://api.github.com/users/XhmikosR/orgs",
+          "received_events_url": "https://api.github.com/users/XhmikosR/received_events",
+          "repos_url": "https://api.github.com/users/XhmikosR/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/XhmikosR/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/XhmikosR/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/XhmikosR",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393702592"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "007bff",
+            "default": false,
+            "id": 143597,
+            "name": "docs",
+            "node_id": "MDU6TGFiZWwxNDM1OTc=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/docs",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27904}
+      summary="something with no line breaks"
+      title="docs: redirect root pages to the latest version"
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/349621?v=4",
+          "events_url": "https://api.github.com/users/XhmikosR/events{/privacy}",
+          "followers_url": "https://api.github.com/users/XhmikosR/followers",
+          "following_url": "https://api.github.com/users/XhmikosR/following{/other_user}",
+          "gists_url": "https://api.github.com/users/XhmikosR/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/XhmikosR",
+          "id": 349621,
+          "login": "XhmikosR",
+          "node_id": "MDQ6VXNlcjM0OTYyMQ==",
+          "organizations_url": "https://api.github.com/users/XhmikosR/orgs",
+          "received_events_url": "https://api.github.com/users/XhmikosR/received_events",
+          "repos_url": "https://api.github.com/users/XhmikosR/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/XhmikosR/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/XhmikosR/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/XhmikosR",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393566222"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "000000",
+            "default": false,
+            "id": 290840303,
+            "name": "ship list",
+            "node_id": "MDU6TGFiZWwyOTA4NDAzMDM=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/ship%20list",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27893}
+      summary="something with no line breaks"
+      title="v4.3.0 ship list"
+      user={
+        Object {
+          "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+          "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+          "followers_url": "https://api.github.com/users/mdo/followers",
+          "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+          "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/mdo",
+          "id": 98681,
+          "login": "mdo",
+          "node_id": "MDQ6VXNlcjk4Njgx",
+          "organizations_url": "https://api.github.com/users/mdo/orgs",
+          "received_events_url": "https://api.github.com/users/mdo/received_events",
+          "repos_url": "https://api.github.com/users/mdo/repos",
+          "site_admin": true,
+          "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/mdo",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393453273"
+  >
+    <Issue
+      labels={Array []}
+      number={27890}
+      summary="something with no line breaks"
+      title="Fix buttons :focus state styles"
+      user={
+        Object {
+          "avatar_url": "https://avatars3.githubusercontent.com/u/143115?v=4",
+          "events_url": "https://api.github.com/users/mattez/events{/privacy}",
+          "followers_url": "https://api.github.com/users/mattez/followers",
+          "following_url": "https://api.github.com/users/mattez/following{/other_user}",
+          "gists_url": "https://api.github.com/users/mattez/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/mattez",
+          "id": 143115,
+          "login": "mattez",
+          "node_id": "MDQ6VXNlcjE0MzExNQ==",
+          "organizations_url": "https://api.github.com/users/mattez/orgs",
+          "received_events_url": "https://api.github.com/users/mattez/received_events",
+          "repos_url": "https://api.github.com/users/mattez/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/mattez/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/mattez/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/mattez",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="393124519"
+  >
+    <Issue
+      labels={Array []}
+      number={27886}
+      summary="something with no line breaks"
+      title="[Bug] Order classes also generate a class .order#{$infix}-0 for every infix"
+      user={
+        Object {
+          "avatar_url": "https://avatars0.githubusercontent.com/u/1866564?v=4",
+          "events_url": "https://api.github.com/users/kopax/events{/privacy}",
+          "followers_url": "https://api.github.com/users/kopax/followers",
+          "following_url": "https://api.github.com/users/kopax/following{/other_user}",
+          "gists_url": "https://api.github.com/users/kopax/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/kopax",
+          "id": 1866564,
+          "login": "kopax",
+          "node_id": "MDQ6VXNlcjE4NjY1NjQ=",
+          "organizations_url": "https://api.github.com/users/kopax/orgs",
+          "received_events_url": "https://api.github.com/users/kopax/received_events",
+          "repos_url": "https://api.github.com/users/kopax/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/kopax/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/kopax/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/kopax",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="392476180"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 210556,
+            "name": "css",
+            "node_id": "MDU6TGFiZWwyMTA1NTY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/css",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27881}
+      summary="something with no line breaks"
+      title="fix border issue for nested card inside accordions"
+      user={
+        Object {
+          "avatar_url": "https://avatars0.githubusercontent.com/u/18413362?v=4",
+          "events_url": "https://api.github.com/users/ovpv/events{/privacy}",
+          "followers_url": "https://api.github.com/users/ovpv/followers",
+          "following_url": "https://api.github.com/users/ovpv/following{/other_user}",
+          "gists_url": "https://api.github.com/users/ovpv/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/ovpv",
+          "id": 18413362,
+          "login": "ovpv",
+          "node_id": "MDQ6VXNlcjE4NDEzMzYy",
+          "organizations_url": "https://api.github.com/users/ovpv/orgs",
+          "received_events_url": "https://api.github.com/users/ovpv/received_events",
+          "repos_url": "https://api.github.com/users/ovpv/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/ovpv/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/ovpv/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/ovpv",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="392472789"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 210556,
+            "name": "css",
+            "node_id": "MDU6TGFiZWwyMTA1NTY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/css",
+          },
+          Object {
+            "color": "103987",
+            "default": false,
+            "id": 1069712305,
+            "name": "v5",
+            "node_id": "MDU6TGFiZWwxMDY5NzEyMzA1",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v5",
+          },
+        ]
+      }
+      number={27879}
+      summary="something with no line breaks"
+      title="code conflict"
+      user={
+        Object {
+          "avatar_url": "https://avatars3.githubusercontent.com/u/8848263?v=4",
+          "events_url": "https://api.github.com/users/linjialiang/events{/privacy}",
+          "followers_url": "https://api.github.com/users/linjialiang/followers",
+          "following_url": "https://api.github.com/users/linjialiang/following{/other_user}",
+          "gists_url": "https://api.github.com/users/linjialiang/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/linjialiang",
+          "id": 8848263,
+          "login": "linjialiang",
+          "node_id": "MDQ6VXNlcjg4NDgyNjM=",
+          "organizations_url": "https://api.github.com/users/linjialiang/orgs",
+          "received_events_url": "https://api.github.com/users/linjialiang/received_events",
+          "repos_url": "https://api.github.com/users/linjialiang/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/linjialiang/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/linjialiang/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/linjialiang",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="392346490"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 210556,
+            "name": "css",
+            "node_id": "MDU6TGFiZWwyMTA1NTY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/css",
+          },
+          Object {
+            "color": "4bb14b",
+            "default": false,
+            "id": 148230,
+            "name": "feature",
+            "node_id": "MDU6TGFiZWwxNDgyMzA=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/feature",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27878}
+      summary="something with no line breaks"
+      title="Add dark carousel color scheme"
+      user={
+        Object {
+          "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+          "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+          "followers_url": "https://api.github.com/users/mdo/followers",
+          "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+          "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/mdo",
+          "id": 98681,
+          "login": "mdo",
+          "node_id": "MDQ6VXNlcjk4Njgx",
+          "organizations_url": "https://api.github.com/users/mdo/orgs",
+          "received_events_url": "https://api.github.com/users/mdo/received_events",
+          "repos_url": "https://api.github.com/users/mdo/repos",
+          "site_admin": true,
+          "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/mdo",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="392011148"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 210556,
+            "name": "css",
+            "node_id": "MDU6TGFiZWwyMTA1NTY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/css",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27873}
+      summary="something with no line breaks"
+      title="Fix incorrect responsive alignment of dropdown menu"
+      user={
+        Object {
+          "avatar_url": "https://avatars0.githubusercontent.com/u/4065765?v=4",
+          "events_url": "https://api.github.com/users/ysds/events{/privacy}",
+          "followers_url": "https://api.github.com/users/ysds/followers",
+          "following_url": "https://api.github.com/users/ysds/following{/other_user}",
+          "gists_url": "https://api.github.com/users/ysds/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/ysds",
+          "id": 4065765,
+          "login": "ysds",
+          "node_id": "MDQ6VXNlcjQwNjU3NjU=",
+          "organizations_url": "https://api.github.com/users/ysds/orgs",
+          "received_events_url": "https://api.github.com/users/ysds/received_events",
+          "repos_url": "https://api.github.com/users/ysds/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/ysds/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/ysds/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/ysds",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="391901194"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "ffc40d",
+            "default": false,
+            "id": 143643,
+            "name": "js",
+            "node_id": "MDU6TGFiZWwxNDM2NDM=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/js",
+          },
+          Object {
+            "color": "d9534f",
+            "default": false,
+            "id": 250176946,
+            "name": "v3",
+            "node_id": "MDU6TGFiZWwyNTAxNzY5NDY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v3",
+          },
+        ]
+      }
+      number={27869}
+      summary="something with no line breaks"
+      title="Error parsing older angular UI with new 3.4.0 release"
+      user={
+        Object {
+          "avatar_url": "https://avatars1.githubusercontent.com/u/45951976?v=4",
+          "events_url": "https://api.github.com/users/mjasplin/events{/privacy}",
+          "followers_url": "https://api.github.com/users/mjasplin/followers",
+          "following_url": "https://api.github.com/users/mjasplin/following{/other_user}",
+          "gists_url": "https://api.github.com/users/mjasplin/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/mjasplin",
+          "id": 45951976,
+          "login": "mjasplin",
+          "node_id": "MDQ6VXNlcjQ1OTUxOTc2",
+          "organizations_url": "https://api.github.com/users/mjasplin/orgs",
+          "received_events_url": "https://api.github.com/users/mjasplin/received_events",
+          "repos_url": "https://api.github.com/users/mjasplin/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/mjasplin/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/mjasplin/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/mjasplin",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="391473666"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "103987",
+            "default": false,
+            "id": 1069712305,
+            "name": "v5",
+            "node_id": "MDU6TGFiZWwxMDY5NzEyMzA1",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v5",
+          },
+        ]
+      }
+      number={27861}
+      summary="something with no line breaks"
+      title="Remove now unnecessary \`shrink-to-fit\` viewport directive"
+      user={
+        Object {
+          "avatar_url": "https://avatars2.githubusercontent.com/u/349621?v=4",
+          "events_url": "https://api.github.com/users/XhmikosR/events{/privacy}",
+          "followers_url": "https://api.github.com/users/XhmikosR/followers",
+          "following_url": "https://api.github.com/users/XhmikosR/following{/other_user}",
+          "gists_url": "https://api.github.com/users/XhmikosR/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/XhmikosR",
+          "id": 349621,
+          "login": "XhmikosR",
+          "node_id": "MDQ6VXNlcjM0OTYyMQ==",
+          "organizations_url": "https://api.github.com/users/XhmikosR/orgs",
+          "received_events_url": "https://api.github.com/users/XhmikosR/received_events",
+          "repos_url": "https://api.github.com/users/XhmikosR/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/XhmikosR/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/XhmikosR/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/XhmikosR",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="390392300"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 210556,
+            "name": "css",
+            "node_id": "MDU6TGFiZWwyMTA1NTY=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/css",
+          },
+          Object {
+            "color": "563d7c",
+            "default": false,
+            "id": 250176882,
+            "name": "v4",
+            "node_id": "MDU6TGFiZWwyNTAxNzY4ODI=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/v4",
+          },
+        ]
+      }
+      number={27825}
+      summary="something with no line breaks"
+      title="allow spacing utilities to override more easily"
+      user={
+        Object {
+          "avatar_url": "https://avatars1.githubusercontent.com/u/18580400?v=4",
+          "events_url": "https://api.github.com/users/ricealexander/events{/privacy}",
+          "followers_url": "https://api.github.com/users/ricealexander/followers",
+          "following_url": "https://api.github.com/users/ricealexander/following{/other_user}",
+          "gists_url": "https://api.github.com/users/ricealexander/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/ricealexander",
+          "id": 18580400,
+          "login": "ricealexander",
+          "node_id": "MDQ6VXNlcjE4NTgwNDAw",
+          "organizations_url": "https://api.github.com/users/ricealexander/orgs",
+          "received_events_url": "https://api.github.com/users/ricealexander/received_events",
+          "repos_url": "https://api.github.com/users/ricealexander/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/ricealexander/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/ricealexander/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/ricealexander",
+        }
+      }
+    />
+  </li>
+  <li
+    className="issues__issue-wrapper"
+    key="389913673"
+  >
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "007bff",
+            "default": false,
+            "id": 143597,
+            "name": "docs",
+            "node_id": "MDU6TGFiZWwxNDM1OTc=",
+            "url": "https://api.github.com/repos/twbs/bootstrap/labels/docs",
+          },
+        ]
+      }
+      number={27815}
+      summary="something with no line breaks"
+      title="Coding conventions documentation"
+      user={
+        Object {
+          "avatar_url": "https://avatars3.githubusercontent.com/u/11559216?v=4",
+          "events_url": "https://api.github.com/users/MartijnCuppens/events{/privacy}",
+          "followers_url": "https://api.github.com/users/MartijnCuppens/followers",
+          "following_url": "https://api.github.com/users/MartijnCuppens/following{/other_user}",
+          "gists_url": "https://api.github.com/users/MartijnCuppens/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/MartijnCuppens",
+          "id": 11559216,
+          "login": "MartijnCuppens",
+          "node_id": "MDQ6VXNlcjExNTU5MjE2",
+          "organizations_url": "https://api.github.com/users/MartijnCuppens/orgs",
+          "received_events_url": "https://api.github.com/users/MartijnCuppens/received_events",
+          "repos_url": "https://api.github.com/users/MartijnCuppens/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/MartijnCuppens/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/MartijnCuppens/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/MartijnCuppens",
+        }
+      }
+    />
+  </li>
+</ul>
+`;
+
+exports[`test renders 1`] = `
+<ul
+  className="issues">
+  <li
+    className="issues__issue-wrapper">
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "0b02e1",
+            "default": false,
+            "id": 107191,
+            "name": "activerecord",
+            "url": "https://api.github.com/repos/rails/rails/labels/activerecord",
+          },
+          Object {
+            "color": "ededed",
+            "default": false,
+            "id": 128692,
+            "name": "needs feedback",
+            "url": "https://api.github.com/repos/rails/rails/labels/needs%20feedback",
+          },
+        ]
+      }
+      number={27599}
+      summary="something with no line breaks"
+      title="Fix bug with symbolized keys in .where with nested join (alternative to #27598)"
+      user={
+        Object {
+          "avatar_url": "https://avatars.githubusercontent.com/u/314014?v=3",
+          "events_url": "https://api.github.com/users/NickLaMuro/events{/privacy}",
+          "followers_url": "https://api.github.com/users/NickLaMuro/followers",
+          "following_url": "https://api.github.com/users/NickLaMuro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/NickLaMuro/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/NickLaMuro",
+          "id": 314014,
+          "login": "NickLaMuro",
+          "organizations_url": "https://api.github.com/users/NickLaMuro/orgs",
+          "received_events_url": "https://api.github.com/users/NickLaMuro/received_events",
+          "repos_url": "https://api.github.com/users/NickLaMuro/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/NickLaMuro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/NickLaMuro/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/NickLaMuro",
+        }
+      } />
+  </li>
+  <li
+    className="issues__issue-wrapper">
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "0b02e1",
+            "default": false,
+            "id": 107191,
+            "name": "activerecord",
+            "url": "https://api.github.com/repos/rails/rails/labels/activerecord",
+          },
+          Object {
+            "color": "ededed",
+            "default": false,
+            "id": 128692,
+            "name": "needs feedback",
+            "url": "https://api.github.com/repos/rails/rails/labels/needs%20feedback",
+          },
+        ]
+      }
+      number={27598}
+      summary="something with no line breaks"
+      title="Fix bug with symbolized keys in .where with nested join"
+      user={
+        Object {
+          "avatar_url": "https://avatars.githubusercontent.com/u/314014?v=3",
+          "events_url": "https://api.github.com/users/NickLaMuro/events{/privacy}",
+          "followers_url": "https://api.github.com/users/NickLaMuro/followers",
+          "following_url": "https://api.github.com/users/NickLaMuro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/NickLaMuro/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/NickLaMuro",
+          "id": 314014,
+          "login": "NickLaMuro",
+          "organizations_url": "https://api.github.com/users/NickLaMuro/orgs",
+          "received_events_url": "https://api.github.com/users/NickLaMuro/received_events",
+          "repos_url": "https://api.github.com/users/NickLaMuro/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/NickLaMuro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/NickLaMuro/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/NickLaMuro",
+        }
+      } />
+  </li>
+  <li
+    className="issues__issue-wrapper">
+    <Issue
+      labels={
+        Array [
+          Object {
+            "color": "0b02e1",
+            "default": false,
+            "id": 107191,
+            "name": "activerecord",
+            "url": "https://api.github.com/repos/rails/rails/labels/activerecord",
+          },
+        ]
+      }
+      number={27597}
+      summary="something with no line breaks"
+      title="Consistency between first() and last() with limit"
+      user={
+        Object {
+          "avatar_url": "https://avatars.githubusercontent.com/u/2460418?v=3",
+          "events_url": "https://api.github.com/users/brchristian/events{/privacy}",
+          "followers_url": "https://api.github.com/users/brchristian/followers",
+          "following_url": "https://api.github.com/users/brchristian/following{/other_user}",
+          "gists_url": "https://api.github.com/users/brchristian/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/brchristian",
+          "id": 2460418,
+          "login": "brchristian",
+          "organizations_url": "https://api.github.com/users/brchristian/orgs",
+          "received_events_url": "https://api.github.com/users/brchristian/received_events",
+          "repos_url": "https://api.github.com/users/brchristian/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/brchristian/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/brchristian/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/brchristian",
+        }
+      } />
+  </li>
+</ul>
+`;
